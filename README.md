@@ -8,7 +8,7 @@ I'm glad you're here! I'm a Front-end Developer and UX Engineer with a passion f
 - TypeScript (TS)
 - Swift :iphone:
 
-[ 🔜 Get ready for some mind-blowing projects coming soon! ]
+[ 🔜 More projects coming soon! ]
 
 Thanks for stopping by! :smile:
 

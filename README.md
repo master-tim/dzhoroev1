@@ -1,4 +1,4 @@
-# Hey there! Welcome to my GitHub Profile
+# Hey there! 🙌🏼
 
 I'm glad you're here! I'm a Front-end Developer and UX Engineer with a passion for crafting visually appealing and user-friendly experiences. My toolset includes technologies such as React, ROS, Figma, Blender, Unity, and Adobe Creative Suite. I have experience in a variety of programming languages including:
 
